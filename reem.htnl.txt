@@ -14,7 +14,7 @@
 
     <img src="https://en.wikipedia.org/wiki/Camel#/media/File:07._Camel_Profile,_near_Silverton,_NSW,_07.07.2007.jpg" alt="صورة للجمل">
 
-    <p><strong>https://www.youtube.com/watch?v=m4-tVBM0H4E:</strong> يصدر الجمل أصواتًا مميزة خلال التواصل</p>
+ 
 
 <audio controls>
   <source src=""C:\Users\Lenovo\Desktop\New folder\new2\57181_erdie_camel (online-audio-converter.com).mp3"" type="audio/mp3">
